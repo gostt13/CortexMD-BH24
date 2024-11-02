@@ -1,0 +1,9 @@
+Flask
+tensorflow
+tensorflow-hub
+matplotlib
+imageio
+Pillow
+dtaidistance
+opencv-python
+
